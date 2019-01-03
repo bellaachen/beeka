@@ -1,7 +1,7 @@
     .main{
     display:grid;
     grid-template-columns: 1fr 360px 1fr;
-    grid-template-rows: 25% 49px 39px 36px 16px repeat(15,24px)  ;
+    grid-template-rows: 56px 49px 39px 36px 16px repeat(15,24px)  ;
     font-family: 'Microsoft JhengHei';
     text-align:center;    
     }
